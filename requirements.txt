@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+gunicorn
+uvicorn
+openai
+spotipy
+tenacity
+requests
+langchain_community
